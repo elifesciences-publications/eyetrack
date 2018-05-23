@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Payne et al., "Magnetic eye tracking in mice". eLife, 2017. http://dx.doi.org/10.7554/eLife.29222
+
+
 # eyetrack
 Perform dual-angle video-oculography calibration for magnetic eye tracking
 
